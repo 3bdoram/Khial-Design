@@ -1,3 +1,9 @@
-body{
-    background-color: gold;
+body {
+  background-color: gold;
+}
+h1 {
+  font-family: "montserrat";
+  color: rgb(62, 62, 62);
+  text-align: center;
+  margin: 50px;
 }
